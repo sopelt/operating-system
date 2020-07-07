@@ -1,8 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # from https://downloadcenter.intel.com/download/15817/Intel-Network-Adapter-Driver-for-PCIe-Intel-Gigabit-Ethernet-Network-Connections-Under-Linux-
 md5  711dc0ada83947b0e22e53699d4fa1ac  e1000e-3.8.4.tar.gz
 
 >>>>>>> upstream/dev
+=======
+# from https://downloadcenter.intel.com/download/15817/Intel-Network-Adapter-Driver-for-PCIe-Intel-Gigabit-Ethernet-Network-Connections-Under-Linux-
+md5  711dc0ada83947b0e22e53699d4fa1ac  e1000e-3.8.4.tar.gz
+
+>>>>>>> 81fe3a16aa10dec97aa30f3ce28b1f09893f7fb6
 # Locally calculated
 sha256  4441515302f901e32f29b9b4702239f176d3c02c3b9a697009f93012205e0de1  e1000e-3.8.4.tar.gz
